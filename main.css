@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Staatliches', cursive;
+}
+
+
+
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  flex-direction: column;
+  margin-top: 20%;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+h1{
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 20px;
+    width: 70%;
+    text-align: center;
+   
+    
+}
+
+p{
+    color: red  ;
+}
+
